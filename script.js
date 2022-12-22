@@ -19,6 +19,7 @@ upperContainer.appendChild(h1);
 const header = document.createElement('header');
 upperContainer.appendChild(header);
 
+
 const home = document.createElement('a');
 home.textContent = 'Home';
 header.appendChild(home);
